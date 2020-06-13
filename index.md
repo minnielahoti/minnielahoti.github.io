@@ -1,9 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+It is nice to see you here! I am hoping you can provide some feedback on my posts, comment on them, or make a new friend! I will be posting about my Data Science and Machine Learning journey here. To learn more about who I am, you can go [here!](https://www.linkedin.com/in/minnielahoti/) 
 
-![Image of fast.ai logo](images/logo.png)
+![Minnie](images/Minnie_gimp4.png)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-
-This is my first *blog*!
+## Data Science and Machine Learning - A Journey
