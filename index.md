@@ -2,5 +2,3 @@ It is nice to see you here! I am hoping you can provide some feedback on my post
 <p align="center">
   <img src="images/girl_150.png">
 </p>
-
-## Data Science and Machine Learning - A Journey
